@@ -2,7 +2,17 @@
 
 # VeloxFetch
 
+
+<div align="center">
+
+### ❤️ Support VeloxFetch
+
+If you like this project, consider supporting its development.
+
 [![Donate](https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge)](https://ilyesbs.github.io/VeloxFetch-releases/donation.html)
+
+</div>
+
 
 
 ### Faster downloads that never get lost.
