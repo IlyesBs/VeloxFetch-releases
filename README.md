@@ -2,6 +2,7 @@
 
 # VeloxFetch
 
+<img width="940" height="813" alt="image" src="https://github.com/user-attachments/assets/619a5358-af2b-4028-9ccb-35a1550ab9e8" />
 
 
 ### Faster downloads that never get lost.
