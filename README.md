@@ -3,8 +3,15 @@
 # VeloxFetch
 
 
-[![Donate](https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge)](https://ilyesbs.github.io/VeloxFetch-releases/donation.html)
-
+<div
+  class="DePayButton"
+  label="Donate"
+  integration="951cde90-d257-4259-9d92-014b315e9df1"
+  blockchains='["ethereum"]'
+></div>
+<script src="https://integrate.depay.com/buttons/v13.js"></script>
+<noscript><a href="https://depay.com">Web3 Payments</a> are only supported with JavaScript enabled.</noscript>
+<script>DePayButtons.init({document: document});</script>
 
 ### Faster downloads that never get lost.
 
