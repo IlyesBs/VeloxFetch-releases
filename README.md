@@ -9,7 +9,7 @@
 
 If you like this project, consider supporting its development.
 
-[![Donate](https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge)](https://ilyesbs.github.io/VeloxFetch-releases/donation.html)
+[![Donate](https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge)](https://link.depay.com/4VnYyZSV7h526UxFEVDIvO)
 
 </div>
 
