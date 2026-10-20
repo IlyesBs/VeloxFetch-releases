@@ -2,6 +2,9 @@
 
 # VeloxFetch
 
+[![Donate](https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge)](https://github.com/IlyesBs/VeloxFetch-releases/blob/main/donation.html)
+
+
 ### Faster downloads that never get lost.
 
 Free download manager for **Windows and Linux** · English · Français · العربية
