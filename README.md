@@ -2,7 +2,8 @@
 
 # VeloxFetch
 
-<img width="940" height="813" alt="image" src="https://github.com/user-attachments/assets/619a5358-af2b-4028-9ccb-35a1550ab9e8" />
+
+[![Donate](https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge)](https://ilyesbs.github.io/VeloxFetch-releases/donation.html)
 
 
 ### Faster downloads that never get lost.
